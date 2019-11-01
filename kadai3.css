@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+    
+}
+
+body{background-image: url("../images/715WkBYCwEL._SX679_.jpg");
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+h2{
+    color: forestgreen;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h3{
+    color: blue;
+}
+
+p{
+    color: brown;
+}
