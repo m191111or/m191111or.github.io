@@ -1,0 +1,17 @@
+h1{
+    color:red;
+    font-size:50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine;  
+}
+
+body{
+    background-image: url("../images/https://images-na.ssl-images-amazon.com/images/I/715WkBYCwEL._SX679_.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-position: bottom right;
+    
+}
+
