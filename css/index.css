@@ -1,26 +1,16 @@
 h1{
     color: darkblue;
     text-align: center;
-    background-color: aqua;
-    
-}
-body{background-image:url("../images/images.jpg");
-    background-position: center;
+    background-color: burlywood;
     
 }
 
 h2{
-    color: cadetblue;
+    color: peachpuff;
     text-align: center;
-    background-color: sandybrown;
+    background-color: hotpink;
         
 }
 
-table{
-    background-color: crimson;
-}
 
-ol{
-    background-image: url("../images/images.jfif");
-    background-position: center;
-}
+
