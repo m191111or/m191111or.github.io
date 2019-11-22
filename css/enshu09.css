@@ -1,0 +1,23 @@
+h1.bluecolor {
+    color: blue;
+    background-color: skyblue;
+    text-align: center;
+}
+
+h1#kudo{
+    color: aquamarine;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h2.oza{
+    color:fuchsia;
+    background-color: yellow;
+    text-align: center
+}
+
+h2{
+    color: rebeccapurple;
+    background-color: brown;
+    text-align: center;  
+}
