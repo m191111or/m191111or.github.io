@@ -1,0 +1,83 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    text-align: left;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
+
+div.kuu{
+    width: 1000px;
+    height: 320px;
+    vertical-align: top;
+    background-color: cadetblue;
+    margin-bottom: 20px;
+    font-size: 0;
+}
+div.left{
+    width: 250px;
+    height: 320px;
+    background-color: aquamarine;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin-right: 50px; 
+}
+
+div.light{
+    width: 694px;
+    height: 320px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;  
+    margin: 0px;
+    font-size: 40px; 
+}
+
+div.image{
+    width: 694px;
+    height: 300px;
+    background-color: black;
+}
+
+div.bun{
+    width: 694px;
+    height: 20px;
+    background-color: darkblue;
+    font-size: 18px;
+    
+    
+}
+div.futta{
+    width: 1000px;
+    height: 40px;
+    background-color: burlywood;
+    text-align:right;
+    margin-top: 20px;
+}
+
+div.zenn{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.box1{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div.box2{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
+
+div.box3{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+}
